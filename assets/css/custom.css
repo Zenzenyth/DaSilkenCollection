@@ -1,0 +1,33 @@
+/*
+Custom Css
+*/
+.custom-bg-navbar{
+    background-color: rgb(105, 85, 27);
+}
+
+.custom-bg-top-nav{
+    background-color: rgb(12, 12, 14);
+}
+.blurred-image {
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3); /* Simulates a blur around the image */
+    border-radius: 10px; /* Optional: rounded corners */
+}
+.bg-beige{
+    background-color: #977e4f;
+}
+.text-small-description{
+    font-size: 7px;
+}
+
+.justify-text{
+    text-align: justify;
+}
+
+.card-img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.s-lheight{
+    line-height: 40%;
+}
